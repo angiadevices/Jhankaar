@@ -2,7 +2,7 @@
 
 झंकार|Jhankaar: The sound of chimes or percussion/The name of a popular series of remix cassettes in India in the 90s.
 
-An inexact hardware clone of the 'Ectocore' Eurorack module by Toadstool Tech and Infinite Digits, Jhankaar currently stands as an incomplete project, the troubleshooting of which may currently be out of my capability/circumstances. As the original schematics are provided under CC-BY-SA license (https://github.com/schollz/_core/blob/main/schematics/ectocore_v1.0.1.pdf), so too are the files in this repository.
+An inexact hardware clone of the ['Ectocore' Eurorack module by Toadstool Tech and Infinite Digits](https://github.com/schollz/_core), Jhankaar currently stands as an incomplete project, the troubleshooting of which may currently be out of my capability/circumstances. [As the original schematics are provided under CC-BY-SA license](https://github.com/schollz/_core/blob/main/schematics/ectocore_v1.0.1.pdf), so too are the files in this repository.
 
 The following hardware bugs have been confirmed to exist in this particular iteration of the files:
 - R7 needs to be 10k, **NOT** 0R
