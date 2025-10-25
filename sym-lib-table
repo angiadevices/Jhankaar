@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCB_Ectoscore_Symbol")(type "KiCad")(uri "${KIPRJMOD}/PCB_Ectoscore_Symbol.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,209 @@
+(footprint "KEY-TH_4P-L6.0-W6.0-P4.50-LS7.5"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(locked yes)
+	(layer "F.Cu")
+	(descr "Round Button 50mA Straight SPST")
+	(property "Reference" "REF**"
+		(at 0 -6.25 0)
+		(layer "F.SilkS")
+		(uuid "16ce4ef9-67b8-4ea5-97a9-fddf932deeca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TL1105SPF100Q"
+		(at 0 6.25 0)
+		(layer "F.Fab")
+		(uuid "67a111a2-28d5-4d9b-8f88-58c039d43134")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95ef4abc-849a-4a98-af5b-c8d6dec414cd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Push button switch, generic, symbol, four pins"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e1f41409-a22b-4b23-943c-a1e957764d90")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier part" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1786a071-b164-4abd-b675-1db3e8774fee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "905bfb01-2407-460b-a70b-a19a7ac272b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 3 -1.04)
+		(end 3 1.04)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f7508afa-439b-4d5e-b657-5f30d4a12c43")
+	)
+	(fp_line
+		(start -2.27 3)
+		(end 2.27 3)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "289a2839-7119-4ab0-a8a1-b6316c0cc3ba")
+	)
+	(fp_line
+		(start -2.27 -3)
+		(end 2.2 -3)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "55241e9f-be4e-4677-a0e0-35cc9b591a64")
+	)
+	(fp_line
+		(start -3 -1.04)
+		(end -3 1.04)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3adf5acc-9627-42c3-99ae-8b9357e8768f")
+	)
+	(fp_circle
+		(center -0.05 -0.05)
+		(end 1.7 -0.05)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "c17f6c9a-8999-43ac-baf5-500d3428e996")
+	)
+	(fp_circle
+		(center -0.05 -0.05)
+		(end 0.7 -0.05)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d413b8ec-7248-4a3f-a799-e274e969bfc5")
+	)
+	(fp_circle
+		(center -3.5 3)
+		(end -3.47 3)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "7d476f7a-c993-4ac7-8879-7e0c8f51d827")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "b3f73b37-51cb-4b95-ba96-366b918320b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -3.25 2.25 180)
+		(size 2 2)
+		(drill 1.199896)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e733513b-621c-46a3-8157-3f196770620e")
+	)
+	(pad "2" thru_hole circle
+		(at 3.25 2.25 180)
+		(size 2 2)
+		(drill 1.199896)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cd584339-9333-406e-be80-916ca00cc7a6")
+	)
+	(pad "3" thru_hole circle
+		(at 3.25 -2.25 180)
+		(size 2 2)
+		(drill 1.199896)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "dab720bf-7058-4c3f-9d5a-53facca1aea4")
+	)
+	(pad "4" thru_hole circle
+		(at -3.25 -2.25 180)
+		(size 2 2)
+		(drill 1.199896)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f08d12d5-47d7-4182-87d7-a77fee93152e")
+	)
+	(embedded_fonts no)
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/KEY-TH_4P-L6.0-W6.0-H4.5-LS6.5-P4.5.wrl"
+		(offset
+			(xyz 0 -0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,449 @@
+(footprint "PJS008U30000"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(locked yes)
+	(layer "F.Cu")
+	(descr "PJS008U-3000-0-2")
+	(tags "Connector")
+	(property "Reference" "REF**"
+		(at 0 -0.035 0)
+		(layer "F.SilkS")
+		(uuid "b1cb1672-276a-46e9-8e8e-2328f77cba81")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "PJS008U-3000-0"
+		(at 0 -0.035 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6269ac2e-9f1d-4af7-a25e-303275245649")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f54d1648-31a5-4bc0-a6b8-5c12be7b727a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Memory Card Connectors MicroSD Card Conn Ver Dip Mnt Manual"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff71165b-0167-489b-a3da-fb44d8f22975")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "14.18"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "db664f35-005d-4593-9bbe-b9e72743f720")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Yamaichi"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0af4e1b0-0c5f-4565-a013-fdfb3f998b50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "PJS008U-3000-0"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a3a91f43-3f85-4835-812f-d2ffb2974d8d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "945-PJS008U-3000-0"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4dbefe5c-efc7-46db-80b6-a7c682d160d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Yamaichi-Electronics/PJS008U-3000-0?qs=nO3wRANIIvnp3f0XwG2X3A%3D%3D"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4c914fa-9999-4977-9ac0-a0528a1a5351")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc302d0a-77d7-4a03-be33-94b148b004f5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "988254c8-1f0c-4cd5-885a-fbfdb7090f74")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier part" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1ab58e0b-0736-4f67-a297-9c52bbe1c247")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c8f6c664-b411-4573-9b05-6a15d9111e5e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 6.225 -2.45)
+		(end 6.225 2.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3daf5d5-4c47-40c6-80f5-0da15d9ca8b7")
+	)
+	(fp_line
+		(start 5.225 -2.45)
+		(end 6.225 -2.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e5a42f7-66f7-4d58-91b7-181dc6016960")
+	)
+	(fp_line
+		(start -2.775 2.45)
+		(end 2.975 2.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cab44af2-2cdf-4064-8b5a-9307a2de3edb")
+	)
+	(fp_line
+		(start -5.775 2.45)
+		(end -5.775 -2.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "84f23954-b429-4aff-993b-4d558ffcb61a")
+	)
+	(fp_line
+		(start -5.775 -2.45)
+		(end -3.775 -2.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f7db98c1-6dcc-4103-82ed-11c9b8d81034")
+	)
+	(fp_line
+		(start -6.125 -1.12)
+		(end -6.125 -1.12)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dbeaf650-e0ba-464e-90aa-0c02931353cd")
+	)
+	(fp_line
+		(start -6.225 -1.12)
+		(end -6.225 -1.12)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0c76998a-9900-48db-9d73-498da979d9cc")
+	)
+	(fp_arc
+		(start -6.125 -1.12)
+		(mid -6.175 -1.07)
+		(end -6.225 -1.12)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "acd157f8-792b-4c54-be79-ea8b9d64d224")
+	)
+	(fp_arc
+		(start -6.225 -1.12)
+		(mid -6.175 -1.17)
+		(end -6.125 -1.12)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "10ebb2b3-1af0-4e81-84ae-0a517a959264")
+	)
+	(fp_line
+		(start 7.225 3.75)
+		(end -7.225 3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a695d0bd-1b7b-4e53-a0f4-4243819c2f76")
+	)
+	(fp_line
+		(start 7.225 -3.82)
+		(end 7.225 3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d6589fe5-2177-4b99-95fe-6be2cb8c1afe")
+	)
+	(fp_line
+		(start -7.225 3.75)
+		(end -7.225 -3.82)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7beb2fe8-fd44-41ee-8398-80c298fe2f48")
+	)
+	(fp_line
+		(start -7.225 -3.82)
+		(end 7.225 -3.82)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d33afc32-0ab8-4df9-87d5-642c535a7b29")
+	)
+	(fp_line
+		(start 6.225 2.45)
+		(end -5.775 2.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "86ea339c-e929-4ef8-8379-dc1a750ef5b4")
+	)
+	(fp_line
+		(start 6.225 -2.45)
+		(end 6.225 2.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "09b373c4-b147-45ab-8687-becdbc955add")
+	)
+	(fp_line
+		(start -5.775 2.45)
+		(end -5.775 -2.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f327fe8c-c856-473e-9cf5-36ec22b505fd")
+	)
+	(fp_line
+		(start -5.775 -2.45)
+		(end 6.225 -2.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ae278209-bf34-4cac-9ba7-3fc8788e5288")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -0.035 0)
+		(layer "F.Fab")
+		(uuid "9d7e71fd-5b30-4ce8-9454-0e4c94cc32f7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -3.625 -1.12 180)
+		(size 1.2 1.2)
+		(drill 0.7)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "68d25a0c-b0cc-4361-8334-b22545706d87")
+	)
+	(pad "2" thru_hole circle
+		(at -2.525 -2.22 180)
+		(size 1.2 1.2)
+		(drill 0.7)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f664323d-129c-4d3e-9436-36b73f17629c")
+	)
+	(pad "3" thru_hole circle
+		(at -1.425 -1.12 180)
+		(size 1.2 1.2)
+		(drill 0.7)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "74ff94be-0e79-4243-bc7d-853556e6d9ae")
+	)
+	(pad "4" thru_hole circle
+		(at -0.325 -2.22 180)
+		(size 1.2 1.2)
+		(drill 0.7)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f64e2195-8507-4c40-861b-727b90fec40c")
+	)
+	(pad "5" thru_hole circle
+		(at 0.775 -1.12 180)
+		(size 1.2 1.2)
+		(drill 0.7)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0460fe18-3290-4495-89e1-a292b7ae7d8c")
+	)
+	(pad "6" thru_hole circle
+		(at 1.875 -2.22 180)
+		(size 1.2 1.2)
+		(drill 0.7)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "040f8208-20f9-40ed-aecb-d5aa06f56fd6")
+	)
+	(pad "7" thru_hole circle
+		(at 2.975 -1.12 180)
+		(size 1.2 1.2)
+		(drill 0.7)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c0215f06-abd3-4693-9bf2-5f3d28f08604")
+	)
+	(pad "8" thru_hole circle
+		(at 4.075 -2.22 180)
+		(size 1.2 1.2)
+		(drill 0.7)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0a51ac2d-aacb-4737-8be8-d5cc5351c559")
+	)
+	(pad "MH1" thru_hole circle
+		(at -4.075 2.05 180)
+		(size 1.4 1.4)
+		(drill 0.9)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f1748e8f-d2e3-4ae9-9e9c-855c16ec3058")
+	)
+	(pad "MH2" thru_hole circle
+		(at 4.525 2.05 180)
+		(size 1.4 1.4)
+		(drill 0.9)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b8973723-18db-4723-9be4-ef205ffa20af")
+	)
+	(embedded_fonts no)
+	(model "D:/ECTOCORE/Library/3D/PJS008U-3000-0.stp"
+		(offset
+			(xyz 56.99999914 22.10000005 -5.979999929)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

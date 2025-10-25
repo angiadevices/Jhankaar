@@ -1,0 +1,239 @@
+(footprint "LED0603-R-RD_RED"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(locked yes)
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "ff5792a9-0e70-49bc-92c0-dc0aa2d5bf63")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED-0603_R"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "29a1118e-0604-42d2-8bdd-1ac336513dd0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Everlight-Elec-19-21SURC-S530-A5-TR8_C131269.html"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2752f962-a0ab-41bd-91f3-49e60be4fc84")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Red 0603 LED Indication - Discrete ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "594e5c8d-f4c5-46d0-a39b-6a53dcacda79")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier Part" "C131269"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19a15f82-63ea-4c55-bb30-0e15e325fea9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Number" "19-21SURC/S530-A5/TR8"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57dc139e-cd3b-4b2d-a77c-30b5aa5d2059")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3923578f-c172-4db9-a168-aaea328b02c0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 1.77 0.87)
+		(end 1.77 -0.86)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f2851dd7-22cb-4780-9099-f1f94ad04be1")
+	)
+	(fp_line
+		(start 1.77 0.87)
+		(end 0.29 0.87)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "58a6d995-1175-4d56-8c59-a0754aeeb1d9")
+	)
+	(fp_line
+		(start 1.77 -0.86)
+		(end 0.29 -0.86)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cd61aeb2-2281-46b2-a6c3-633b7fe6fec9")
+	)
+	(fp_line
+		(start 0.08 0.41)
+		(end 0.08 -0.38)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2d9861f1-7dc9-4267-bd75-22a5d982e6d1")
+	)
+	(fp_line
+		(start 0.08 0.01)
+		(end -0.1 0.01)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9e1accef-2d12-473d-a643-fc71851358a0")
+	)
+	(fp_line
+		(start -0.29 -0.86)
+		(end -1.46 -0.86)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8588775a-a28a-45a4-b377-496cf0ab9869")
+	)
+	(fp_line
+		(start -0.32 0.87)
+		(end -1.46 0.87)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a64cb585-ec21-4ef4-9d37-4618a723ced7")
+	)
+	(fp_line
+		(start -1.46 0.87)
+		(end -1.81 0.51)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ce931eb1-32e9-446d-8c44-edb0f4c8d3ca")
+	)
+	(fp_line
+		(start -1.81 0.51)
+		(end -1.81 -0.5)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f80b07dd-f888-4440-9bc3-a202b6dcc994")
+	)
+	(fp_line
+		(start -1.81 -0.5)
+		(end -1.46 -0.86)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "35909ab9-066b-4cd2-a1e1-a05440e193cc")
+	)
+	(fp_circle
+		(center 0.8 0.4)
+		(end 0.83 0.4)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "766d20e2-8af6-4713-80ca-facc1de38d49")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "6da28123-0f21-4e4b-9c32-6ca9e10e6fd1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0.85 0 270)
+		(size 0.8 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a16c9706-8bf9-42fa-b8b4-edbc75d19916")
+	)
+	(pad "2" smd rect
+		(at -0.85 0 270)
+		(size 0.8 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f6725dd8-c8b4-4f59-b767-77b9a2a6eed2")
+	)
+	(embedded_fonts no)
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603-RD_RED.wrl"
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

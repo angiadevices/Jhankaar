@@ -1,0 +1,446 @@
+(footprint "POT_TH_Alps_RK09K_Single_Vertical"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(locked yes)
+	(layer "F.Cu")
+	(descr "Potentiometer, vertical, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html")
+	(tags "Potentiometer vertical Alps RK09K Single")
+	(property "Reference" "REF**"
+		(at 0 -6.8 0)
+		(layer "F.SilkS")
+		(uuid "d415713f-b2bd-4fa5-9c67-ed12cbed3829")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "10kΩ"
+		(at 7.65 1.45 90)
+		(layer "F.Fab")
+		(uuid "7db73c70-4a51-4a62-bb4b-13c5dfd65372")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cfb87037-ff1a-4dd1-9369-c5122ce51fbe")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f4db29a-7a26-469b-aef7-c1353e857158")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer Part" "RK09K1130A8G"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4d3d939-1ac7-42a3-a76d-ae4ea18e9984")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "ALPSALPINE(阿尔卑斯阿尔派)"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "041454ec-252e-4de1-a83f-d605e189b5ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier Part" "C470294"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9274763f-ef74-420a-b4b9-c9c1b7addc38")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier" "LCSC"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bf0c6a21-7e22-4bc4-9abd-9f41fe401332")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier part" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9ee3384-9321-4af6-ab68-954ca91a6abd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "31a9cc1b-e0fb-452f-8cff-acec835141fa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 5.02 6.62)
+		(end 3.37 6.62)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "527a923f-f1ac-47e6-b2f8-d241554ead39")
+	)
+	(fp_line
+		(start 5.02 2.683)
+		(end 5.02 6.62)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "415626f8-d75d-486d-9c21-10abebfb7020")
+	)
+	(fp_line
+		(start 5.02 -5.62)
+		(end 5.02 -1.684)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "92103bac-b8bc-4f45-bd3c-916a88899c13")
+	)
+	(fp_line
+		(start 5.02 -5.62)
+		(end -5.021 -5.62)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2c113085-b0a8-4745-95e4-1a4db2fbf84a")
+	)
+	(fp_line
+		(start 1.63 6.62)
+		(end 0.871 6.62)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a805da8f-b1c3-49d5-9fd6-89a142dfb26b")
+	)
+	(fp_line
+		(start -0.87 6.62)
+		(end -1.629 6.62)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c781910b-a416-44b1-b78f-3fdaa805a879")
+	)
+	(fp_line
+		(start -3.371 6.62)
+		(end -5.021 6.62)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0a9f0de0-12c5-48bb-85d3-39abc11f2fe8")
+	)
+	(fp_line
+		(start -5.021 2.683)
+		(end -5.021 6.62)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4a33c28-405b-44c8-860c-e40c00d64d5a")
+	)
+	(fp_line
+		(start -5.021 -5.62)
+		(end -5.021 -1.684)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cfa98d06-45cd-4ad8-a309-5648c1ee8357")
+	)
+	(fp_line
+		(start 6.65 8.65)
+		(end -6.65 8.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "52044bd7-f6d2-4856-840a-428842f35075")
+	)
+	(fp_line
+		(start 6.65 -5.75)
+		(end 6.65 8.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "324d77a2-f47f-441f-a256-3c33b78454aa")
+	)
+	(fp_line
+		(start -6.65 8.65)
+		(end -6.65 -5.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "78064915-b715-4e01-a5ab-9419d02a623e")
+	)
+	(fp_line
+		(start -6.65 -5.75)
+		(end 6.65 -5.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6428e555-4936-47cf-bd2c-a8c0a1189a63")
+	)
+	(fp_line
+		(start 4.9 6.5)
+		(end -4.9 6.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "82264363-4738-4b36-a479-a1a86e8674c8")
+	)
+	(fp_line
+		(start 4.9 -5.5)
+		(end 4.9 6.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "50ef8204-b612-424d-a057-14a85f220888")
+	)
+	(fp_line
+		(start -4.9 6.5)
+		(end -4.9 -5.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e8749150-d4ef-4d4e-ab45-ba0a97af1133")
+	)
+	(fp_line
+		(start -4.9 -5.5)
+		(end 4.9 -5.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "251a50e8-8a31-44ed-82ba-00796f485615")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "5d349df2-9c8b-4c12-9c32-83ad2dcb8e1b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 5.5 0)
+		(layer "F.Fab")
+		(uuid "6a12c57c-546a-49a6-a08b-6e747062519c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 2.5 7.5 90)
+		(size 2 2)
+		(drill 1)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "17554b6f-ea22-46c3-8fdd-7794be95ec49")
+	)
+	(pad "2" thru_hole circle
+		(at 0 7.5)
+		(size 2 2)
+		(drill 1)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "48d578ba-6e36-470a-af5d-f1df09e04d4b")
+	)
+	(pad "3" thru_hole circle
+		(at -2.5 7.5 90)
+		(size 2 2)
+		(drill 1)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "39e7ccee-99fc-49f0-b83a-0f070f92ad1e")
+	)
+	(pad "4" thru_hole circle
+		(at -4.4 0.5 90)
+		(size 4 4)
+		(drill 2)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "83b1d910-6087-44e0-b177-fba01620530e")
+	)
+	(pad "5" thru_hole circle
+		(at 4.4 0.5 90)
+		(size 4 4)
+		(drill 2)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "0df0e594-9225-4c0f-b60d-d339adaa1748")
+	)
+	(embedded_fonts no)
+	(model "R:/MyDrive/Euroclack/Build your own modular book/buildyourownmodular/PCBs/BYOM_3D_models/ALPHA-RD901F-40.step"
+		(offset
+			(xyz 0 -0.25 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/3D Model/RES-TH_RK09K113004U.wrl"
+		(offset
+			(xyz 0 -1.6 -12.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
